@@ -66,7 +66,7 @@ _Routes Use_: Routes preferred by Casual riders are different from the routes of
 Visualization and Presentation were used to effectively communicate the findings and key takeaways.
 
 **Visualization Report**
-![Result](Dashboard_result.jpg)
+![Result](Visual_report.jpg)
 
 **Presentation slide** [here](Cyclistic_Bike_share_Presentation.pdf)
 
