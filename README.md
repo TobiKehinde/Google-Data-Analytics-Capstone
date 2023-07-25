@@ -37,7 +37,7 @@ To ensure data integrity for accurate, consistent, and reliable results, data pr
 - I examined the details of each data file using pandas info and describe functions.
 - I checked each data frame for duplicates.
 - I checked each data frame for missing values.
-- I validated the data to ensure proper analysis that inform data-driven decision
+- I validated the data to ensure proper analysis that informs data-driven decision
 
 **Data cleaning** was done in the following steps;
 - I renamed columns into conventionally meaningful names
@@ -72,12 +72,9 @@ Visualization and Presentation were used to effectively communicate the findings
 
 # Act Phase:
 
-Actionable steps that can be taken to encourage Casual riders convert to annual memberships based on the findings include;
+Actionable steps that can be taken in encouraging Casual riders to convert to annual memberships based on the findings include;
 1.	Cost savings for long-term usage: Messages to Casual riders to consider annual memberships and showing how it’s more suitable by allowing them to enjoy extended rides without incurring additional costs. Cost-saving messages can persuade casual riders to become members.
 2.	Improve Docked Bike Availability: For casual riders to become members, Cyclistic needs to consider improving docked bike availability and expanding the bike network in stations used by member riders. 
 3.	Personalized membership messages along Popular Casual routes: Create personalized membership messages on social media platforms, to target locations and popular routes taken by casual riders. Such messages when seen can convince casual members to apply for membership.
 
 Thanks for your time in reading. I hope to get you more excited looking at the notebook files for detailed documentation and code in the [**Jupyter notebook**](Jupyter_notebooks) folder!
-
-
-https://t.bkit.co/w_648fa17231c63.gif
