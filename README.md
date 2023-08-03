@@ -23,10 +23,10 @@ Cyclistic previous 12 months' trip data was used. The data collected was appropr
 
 # Process Phase:
 
-_Microsoft Excel_ and _Python programming_ were used to perform data transformation and analysis. 
-Excel was used in following the instructions provided in the case-study guide to create two new columns (ride_length and day_of_week). 
-Due to the large data size, I switched to using Python (Jupyter Notebook) in exploring the data further and perform analysis.
-_Power BI_ was used to produce effective visualizations as one component of a data analyst role (Data Visualization).
+_Microsoft Excel_ and _Python programming_ were used to perform data transformation and Exploratory Data Analysis. 
+Excel was used based on the instructions provided in the case-study guide to create two new columns (ride_length and day_of_week). 
+Due to the large data size, I switched to using Python (Jupyter Notebook) in exploring the data further and performed analysis.
+_Power BI_ was used to produce effective visualizations, particularly based on its Data Visualization capability.
 _Google slide_ was used for Data Presentation.
 To ensure data integrity for accurate, consistent, and reliable results, data processing was done in the following steps;
 1. Data Exploration
@@ -49,19 +49,20 @@ To ensure data integrity for accurate, consistent, and reliable results, data pr
 
 # Analyze Phase:
 
-Various metrics that could differentiate casual riders from members include; _Trip counts, Trip duration, Bike Use, and Routes Use_.
-_Trip count_: Out of 5,776,703 trips, casual riders had 2,342,493 (40.55%) while member riders had 3,434,210 (59.45%). The count of trips taken every day of the week was consistent with Casual riders having lower trips than Members.
-_Trip duration_: The average trip duration for Casual riders was 28.88 minutes and 12.56 minutes for Members. Trip duration for Casual riders taken every day of the week was consistently higher than for Members.
-_Bike use_: Both casual riders and members use classic and electric bikes in high proportion. However, docked bikes are not used by Members.
+Various metrics that differentiate casual riders from members based on the available data include; _Trip counts, Trip duration, Bike type, and Routes taken_.
+These metrics were analyzed to differentiate casual riders from members. A summary report is shown below;
+_Trip counts_: Out of 5,776,703 trips, casual riders had 2,342,493 (40.55%) while member riders had 3,434,210 (59.45%). The count of trips taken by day of the week was consistent with Casual riders having lower trips than Members.
+_Trip duration_: The average trip duration for Casual riders was 28.88 minutes and 12.56 minutes for Members. Trip duration for Casual riders taken by day of the week was consistently higher than for Members.
+_Bike use_: Both casual riders and members use classic and electric bikes. However, docked bikes are not used by Member riders.
 _Routes use_: Top routes used by Casual riders and Members are different.
 
 # Share Phase:
 
 Findings:
-_Trip counts_: Annual members had significantly higher ride counts compared to casual riders, indicating their higher level of engagement and regular use of the bike-sharing service.
+_Trip counts_: Member riders had significantly higher ride counts compared to casual riders, indicating their higher level of engagement and regular use of the bike-sharing service.
 _Trip duration_: Casual riders’ average trip duration was more than twice Member riders and consistent through each day of the week.
 _Bike Use_: Member riders do not use Cyclistic docked bikes.
-_Routes Use_: Routes preferred by Casual riders are different from the routes of Members. 
+_Routes Use_: Routes preferred by Casual riders are different from the routes of Member riders. 
 
 Visualization and Presentation were used to effectively communicate the findings and key takeaways.
 
