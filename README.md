@@ -52,9 +52,13 @@ To ensure data integrity for accurate, consistent, and reliable results, data pr
 Various metrics that differentiate casual riders from members based on the available data include; _Trip counts, Trip duration, Bike type, and Routes taken_.
 
 These metrics were analyzed to differentiate casual riders from members. A summary report is shown below;
+
 _Trip counts_: Out of 5,776,703 trips, casual riders had 2,342,493 (40.55%) while member riders had 3,434,210 (59.45%). The count of trips taken by day of the week was consistent with Casual riders having lower trips than Members.
+
 _Trip duration_: The average trip duration for Casual riders was 28.88 minutes and 12.56 minutes for Members. Trip duration for Casual riders taken by day of the week was consistently higher than for Members.
+
 _Bike use_: Both casual riders and members use classic and electric bikes. However, docked bikes are not used by Member riders.
+
 _Routes use_: Top routes used by Casual riders and Members are different.
 
 # Share Phase:
