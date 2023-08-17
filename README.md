@@ -1,10 +1,10 @@
 # Google-Data-Analytics-Capstone: How Does a Bike-Share Navigate Speedy Success?
 
-A case study to demonstrate my skills as a data analyst using the Google Data Analytic framework.
+A case study of the Google Data Analytics capstone project.
 
 # Project Overview
 
-The Google Data Analytics Capstone case study is the final project in the Google Data Analytics Professional Certificate program. The case study presents a scenario where I am tasked with the role of a junior data analyst at Cyclistic, in analyzing bike-sharing data to understand how casual riders and annual members use Cyclistic bikes differently. The goal is **to identify how Cyclistic Casual riders are different from Members and provide recommendations to the executive team to maximize annual memberships and drive future success.** I used the Google Data Analytic framework (ASK, PREPARE, PROCESS, ANALYZE, SHARE, ACT) for the analysis.
+The Google Data Analytics Capstone case study is the final project in the Google Data Analytics Professional Certificate program. The case study presents a scenario where I am tasked with analyzing bike-sharing data to understand how casual riders and annual members use Cyclistic bikes differently. The goal is **to identify how Cyclistic Casual riders are different from Members and provide recommendations to the executive team to maximize annual memberships and drive future success.** I used the Google Data Analytic framework (ASK, PREPARE, PROCESS, ANALYZE, SHARE, ACT) for the analysis.
 
 ### Technical skills I applied:
 
@@ -69,7 +69,7 @@ _Routes Use_: Routes preferred by Casual riders are different from the routes of
 Visualization and Presentation were used to effectively communicate the findings and key takeaways.
 
 **Visualization Report**
-![Result](Visual_report.jpg)
+![Result](Visual_report.JPG)
 
 **Presentation slide** [here](Cyclistic_Bike_share_Presentation.pdf)
 
