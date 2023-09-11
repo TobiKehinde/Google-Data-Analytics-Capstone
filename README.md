@@ -18,6 +18,6 @@ _Data cleaning, Exploratory Data Analysis (EDA), Data Visualization, Data Presen
 
 Dashboard visualization and Presentation slides were used to effectively communicate the findings and key insights.
 
-**Visualization Report Dashboard)** [here](https://public.tableau.com/app/profile/tobi/viz/IBMDataAnalystCapstoneProject_16935400732140/FutureTechnologyTrend#1)
+**Visualization Dashboard** [here](https://public.tableau.com/app/profile/tobi/viz/IBMDataAnalystCapstoneProject_16935400732140/FutureTechnologyTrend#1)
 
 **Presentation slide** [here](Cyclistic_Bike_share_Presentation.pdf)
